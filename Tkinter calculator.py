@@ -2,9 +2,6 @@ from tkinter import *
 from tkinter.ttk import *
 import math
 
-#Frame, Button, Entry, Style
-
-
 def factorial(y):
     """ Using """
     l = len(y)
@@ -564,8 +561,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-#392.1555709876544-e^2
-
-
-#54!/5!x(5!/9)
